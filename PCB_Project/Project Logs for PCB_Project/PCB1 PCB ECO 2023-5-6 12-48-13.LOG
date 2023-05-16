@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Change Component Designator: OldDesignator=* NewDesignator=LCD
+Added Component: Designator=C?(0402_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_1928.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1576"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23-3)
+Added Component: Designator=R?(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=LCD-7
+Added Pin To Net: NetName=GND Pin=LCD-8
+Added Pin To Net: NetName=VCC_3V3 Pin=LCD-10
+Added Pin To Net: NetName=VCC_3V3 Pin=LCD-12
+Added Pin To Net: NetName=GND Pin=LCD-13
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=LCD_BL Pin=Q?-1
+Added Pin To Net: NetName=LCD_BL Pin=R?-2
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=LCD_DC Pin=LCD-5
+Added Net: Name=LCD_DC
+Added Pin To Net: NetName=LCD_RES Pin=LCD-6
+Added Net: Name=LCD_RES
+Added Pin To Net: NetName=LCD_SCL Pin=LCD-4
+Added Net: Name=LCD_SCL
+Added Pin To Net: NetName=LCD_SDA Pin=LCD-3
+Added Net: Name=LCD_SDA
+Added Pin To Net: NetName=LEDK Pin=LCD-11
+Added Pin To Net: NetName=LEDK Pin=R?-2
+Added Net: Name=LEDK
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component Q? AO3400A
+Added Member To Class: ClassName=Peripheral Member=Component R? 10R
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K

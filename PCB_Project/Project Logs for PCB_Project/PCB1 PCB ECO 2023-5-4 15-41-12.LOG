@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Added Component: Designator=U?(SSOP20_L)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MICROCHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "PIC18F14K50-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C12460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "PIC18F14K50-I/SS"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 4.7K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component U? PIC18F14K50-I/SS

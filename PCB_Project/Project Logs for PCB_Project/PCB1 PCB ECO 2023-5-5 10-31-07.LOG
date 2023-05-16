@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Peripheral Member=U?
+Change Component Footprint: Designator=U? Old Footprint=SSOP20_L New Footprint=TSSOP14_N
+Change Component Comment : Designator=U? Old Comment=PIC18F14K50-I/SS New Comment=74LVC125A
+Change component parameters: Designator = "U?" ("U?"); Footprint = "SSOP20_L"; UniqueID = "\DWULURPC" ("\DWULURPC")
+Added Component: Designator=U?(TSSOP14_N)
+Added Component: Designator=U?(SSOP20_L)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MICROCHIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "PIC18F14K50-I/SS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C12460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "PIC18F14K50-I/SS"; VariantName = "[No Variations]"
+Added Class: Name=USB_Blaster
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 4.7K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R

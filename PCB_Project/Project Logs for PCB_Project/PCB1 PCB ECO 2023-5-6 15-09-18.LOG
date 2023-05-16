@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=84 New Net Name=DIFFIO_R8_N
+Change Net Name : Old Net Name=85 New Net Name=DIFFIO_R8_P
+Change Net Name : Old Net Name=86 New Net Name=DIFFIO_R7_N
+Change Net Name : Old Net Name=87 New Net Name=DIFFIO_R7_P
+Change Net Name : Old Net Name=98 New Net Name=DIFFIO_R4_N
+Change Net Name : Old Net Name=99 New Net Name=DIFFIO_R4_P
+Change Net Name : Old Net Name=101 New Net Name=DIFFIO_R3_N
+Change Net Name : Old Net Name=103 New Net Name=DIFFIO_R3_P
+Added Differential Pair: Name=DIFFIO_R3
+Added Differential Pair: Name=DIFFIO_R4
+Added Differential Pair: Name=DIFFIO_R7
+Added Differential Pair: Name=DIFFIO_R8

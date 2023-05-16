@@ -1,0 +1,12 @@
+Added Component: Designator=JP?(HDR2.54-LI-2x16P)
+Add component (AddParameter): Name = "BOM名称"; Value = "16*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Class: Name=Peripheral
+Added Member To Class: ClassName=DDR_HDMI Member=Component C36 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C37 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C38 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C39 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C40 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C41 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component C42 0.1uF

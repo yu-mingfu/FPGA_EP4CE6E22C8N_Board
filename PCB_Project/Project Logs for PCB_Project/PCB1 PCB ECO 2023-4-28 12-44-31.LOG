@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=SW? Old Footprint=CSW DIP-1P New Footprint=SW-SMD_DSIC01LSGET
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=Power Member=Component C? 22pF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component R? 5.1K
+Added Member To Class: ClassName=Power Member=Component R? 510K
+Added Member To Class: ClassName=Power Member=Component R? 5.1K
+Added Member To Class: ClassName=Power Member=Component R? 110K
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5
+Added Member To Class: ClassName=Power Member=Component U? SGM3157
+Added Member To Class: ClassName=Power Member=Component U? MT3420B
+Added Member To Class: ClassName=Power Member=Component V? AMS1117-2V5

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Added Pin To Net: NetName=101 Pin=R20-2
+Added Pin To Net: NetName=103 Pin=R21-2

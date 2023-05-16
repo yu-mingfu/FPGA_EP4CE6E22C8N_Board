@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=EP4CE6E22C8N Member=R15
+Removed Member From Class: ClassName=DDR_HDMI Member=R40
+Removed Member From Class: ClassName=Peripheral Member=R49
+Removed Member From Class: ClassName=Peripheral Member=R51
+Removed Member From Class: ClassName=Peripheral Member=R52
+Removed Member From Class: ClassName=Peripheral Member=R55
+Removed Member From Class: ClassName=Peripheral Member=R57
+Added Pin To Net: NetName=VCC_3V3 Pin=JP1-1
+Added Pin To Net: NetName=USB_5V Pin=JP1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=JP1-3
+Added Pin To Net: NetName=USB_5V Pin=JP1-4
+Added Member To Class: ClassName=Peripheral Member=Component LED4 ºìÉ«
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component R11 10K
+Added Member To Class: ClassName=Power Member=Component R12 510K
+Added Member To Class: ClassName=Power Member=Component R13 10K
+Added Member To Class: ClassName=Power Member=Component R14 110K
+Added Member To Class: ClassName=Power Member=Component R16 5.1K
+Added Member To Class: ClassName=Power Member=Component R17 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R20 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R22 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R24 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R26 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R28 20K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R29 20K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R30 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R31 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R33 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R35 2.2K
+Added Member To Class: ClassName=Peripheral Member=Component R36 1K
+Added Member To Class: ClassName=Peripheral Member=Component R37 1K
+Added Member To Class: ClassName=Peripheral Member=Component R38 1K
+Added Member To Class: ClassName=Peripheral Member=Component R39 1K
+Added Member To Class: ClassName=Peripheral Member=Component R41 10K
+Added Member To Class: ClassName=Peripheral Member=Component R42 4.7K
+Added Member To Class: ClassName=Peripheral Member=Component R44 10K
+Added Member To Class: ClassName=Peripheral Member=Component R45 10K
+Added Member To Class: ClassName=Peripheral Member=Component R46 220R
+Added Member To Class: ClassName=Peripheral Member=Component R47 220R
+Added Member To Class: ClassName=Peripheral Member=Component R48 220R
+Added Member To Class: ClassName=USB_Blaster Member=Component R50 10K
+Added Member To Class: ClassName=USB_Blaster Member=Component R53 22R
+Added Member To Class: ClassName=USB_Blaster Member=Component R56 100K
+Added Member To Class: ClassName=USB_Blaster Member=Component R58 22R
+Added Member To Class: ClassName=USB_Blaster Member=Component R60 1K
+Added Member To Class: ClassName=USB_Blaster Member=Component R61 22R
+Added Member To Class: ClassName=USB_Blaster Member=Component R62 22R

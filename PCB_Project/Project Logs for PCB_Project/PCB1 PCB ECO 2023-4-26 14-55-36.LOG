@@ -1,0 +1,13 @@
+Added Component: Designator=JP?(IDC2.54-LI-2x12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component JP? Header 2X11
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5

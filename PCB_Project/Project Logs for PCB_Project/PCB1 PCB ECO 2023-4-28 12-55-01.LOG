@@ -1,0 +1,79 @@
+Removed Member From Class: ClassName=Power Member=C?
+Removed Member From Class: ClassName=EP4CE6E22C8N Member=RESET?
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=RESET1 NewDesignator=RESET4
+Change Component Designator: OldDesignator=RESET? NewDesignator=RESET1
+Change Component Designator: OldDesignator=RESET? NewDesignator=RESET2
+Change Component Designator: OldDesignator=RESET? NewDesignator=RESET3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U3 NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=V? NewDesignator=V1
+Change Component Designator: OldDesignator=V? NewDesignator=V2
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL1_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR13_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U4-9
+Added Net: Name=NetR15_1
+Added Member To Class: ClassName=Power Member=Component C28 22uF
+Added Member To Class: ClassName=Power Member=Component C29 22pF
+Added Member To Class: ClassName=Power Member=Component C30 22uF
+Added Member To Class: ClassName=Power Member=Component C31 22uF
+Added Member To Class: ClassName=Power Member=Component C32 22uF
+Added Member To Class: ClassName=Power Member=Component C33 22uF
+Added Member To Class: ClassName=Power Member=Component C34 22uF
+Added Member To Class: ClassName=Power Member=Component C35 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C36 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C37 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C38 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C40 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C41 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C42 0.1uF
+Added Member To Class: ClassName=Power Member=Component R11 510K
+Added Member To Class: ClassName=Power Member=Component R12 110K
+Added Member To Class: ClassName=Power Member=Component R13 5.1K
+Added Member To Class: ClassName=Power Member=Component R15 10K
+Added Member To Class: ClassName=Power Member=Component R16 10K
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET2 3x6x5
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET3 3x6x5
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET4 3x6x5
+Added Member To Class: ClassName=Power Member=Component U3 MT3420B
+Added Member To Class: ClassName=Power Member=Component U5 SGM3157
+Added Member To Class: ClassName=Power Member=Component U6 SGM3157
+Added Member To Class: ClassName=Power Member=Component V1 AMS1117-2V5

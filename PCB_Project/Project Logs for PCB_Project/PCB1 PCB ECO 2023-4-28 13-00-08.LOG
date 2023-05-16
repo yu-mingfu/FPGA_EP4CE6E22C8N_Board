@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=DDR Member=C28
+Removed Member From Class: ClassName=Power Member=U7
+Added Component: Designator=LED?(LED 0603R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=USB_5V Pin=R?-2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Member To Class: ClassName=DDR Member=Component C39 0.1uF
+Added Member To Class: ClassName=Power Member=Component LED? 红色
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component R5 10K
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component R10 0R
+Added Member To Class: ClassName=Power Member=Component R14 5.1K
+Added Member To Class: ClassName=Power Member=Component R? 10K
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET1 3x6x5
+Added Member To Class: ClassName=Power Member=Component U3 MT3420B
+Added Member To Class: ClassName=Power Member=Component U4 CP2102
+Added Member To Class: ClassName=Power Member=Component V2 AMS1117-1V2

@@ -1,0 +1,14 @@
+Added Component: Designator=R?(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=nCE Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=JTAG_TDI Pin=U1-15
+Added Pin To Net: NetName=JTAG_TCK Pin=U1-16
+Added Pin To Net: NetName=JTAG_TMS Pin=U1-18
+Added Pin To Net: NetName=JTAG_TDO Pin=U1-20
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component R? 10K

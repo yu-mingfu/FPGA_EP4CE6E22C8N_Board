@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=JP? Old Footprint=IDC2.54-LI-2x12P New Footprint=HDR2.54-LI-2x12P
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5
+Added Member To Class: ClassName=EP4CE6E22C8N Member=Component RESET? 3x6x5

@@ -1,0 +1,116 @@
+Removed Member From Class: ClassName=DDR_HDMI Member=Q?
+Removed Member From Class: ClassName=Power Member=R?
+Change Component Footprint: Designator=D? Old Footprint=SMA New Footprint=SMC
+Change Component Comment : Designator=R? Old Comment==value New Comment=2.2K
+Change Component Comment : Designator=R? Old Comment==value New Comment=2.2K
+Change Component Comment : Designator=R? Old Comment==value New Comment=10K
+Change Component Comment : Designator=R? Old Comment==value New Comment=20K
+Change Component Comment : Designator=R? Old Comment==value New Comment=20K
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=HDMI? NewDesignator=HDMI1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Added Component: Designator=Q1(SOT23-3)
+Added Component: Designator=R29(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Component: Designator=R30(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Component: Designator=R31(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26667.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25924"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HDMI_SDA_LS Pin=Q1-3
+Added Pin To Net: NetName=HDMI_SCL_LS Pin=Q2-3
+Added Pin To Net: NetName=HDMI_HPD_LS Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=HDMI_SDA_LS Pin=R29-1
+Added Pin To Net: NetName=HDMI_5V Pin=R29-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R30-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R31-2
+Added Pin To Net: NetName=HDMI_SCL_LS Pin=R32-1
+Added Pin To Net: NetName=HDMI_5V Pin=R32-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R33-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R34-2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR16_1
+Added Pin To Net: NetName=HDMI_HPD Pin=R27-2
+Added Pin To Net: NetName=HDMI_HPD Pin=R28-1
+Added Net: Name=HDMI_HPD
+Added Pin To Net: NetName=HDMI_SCL Pin=Q2-2
+Added Pin To Net: NetName=HDMI_SCL Pin=R34-1
+Added Net: Name=HDMI_SCL
+Added Pin To Net: NetName=HDMI_SDA Pin=Q1-2
+Added Pin To Net: NetName=HDMI_SDA Pin=R31-1
+Added Net: Name=HDMI_SDA
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R30-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R33-1
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=DDR_HDMI Member=Component D1 LESD5D5
+Added Member To Class: ClassName=DDR_HDMI Member=Component D2 SS34
+Added Member To Class: ClassName=DDR_HDMI Member=Component D4 AZ1045-04F.R7G
+Added Member To Class: ClassName=DDR_HDMI Member=Component Q1 AO3400A
+Added Member To Class: ClassName=DDR_HDMI Member=Component Q2 AO3400A
+Added Member To Class: ClassName=Power Member=Component R17 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R19 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R20 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R21 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R22 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R23 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R24 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R25 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R26 0R
+Added Member To Class: ClassName=DDR_HDMI Member=Component R27 20K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R28 20K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R29 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R30 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R31 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R32 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R33 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R34 2.2K
+Added Member To Class: ClassName=Peripheral Member=Component U8 SHT20
+Added Member To Class: ClassName=Peripheral Member=Component U9 W25Q64

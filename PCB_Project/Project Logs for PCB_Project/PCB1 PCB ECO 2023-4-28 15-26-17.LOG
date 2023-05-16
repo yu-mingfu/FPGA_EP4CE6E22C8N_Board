@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=DDR_HDMI Member=R14
+Change Component Footprint: Designator=D1 Old Footprint=SOD-323 New Footprint=SOD-523_L1.2-W0.8-LS1.6-RD
+Added Member To Class: ClassName=DDR_HDMI Member=Component D3 AZ1045-04F.R7G
+Added Member To Class: ClassName=Power Member=Component R12 10K
+Added Member To Class: ClassName=Power Member=Component R13 110K
+Added Member To Class: ClassName=Power Member=Component R15 5.1K
+Added Member To Class: ClassName=Power Member=Component R16 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R18 10K
+Added Member To Class: ClassName=Peripheral Member=Component U10 AT24C02

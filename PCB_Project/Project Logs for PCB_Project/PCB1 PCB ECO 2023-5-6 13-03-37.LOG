@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Added Pin To Net: NetName=120 Pin=LCD-3
+Added Pin To Net: NetName=115 Pin=LCD-4
+Added Pin To Net: NetName=112 Pin=LCD-5
+Added Pin To Net: NetName=114 Pin=LCD-6
+Added Pin To Net: NetName=119 Pin=Q?-1
+Added Pin To Net: NetName=119 Pin=R?-2
+Added Member To Class: ClassName=Peripheral Member=Component R? 10R

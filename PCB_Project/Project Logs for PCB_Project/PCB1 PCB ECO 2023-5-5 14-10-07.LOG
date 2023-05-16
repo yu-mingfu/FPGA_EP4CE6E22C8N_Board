@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=TCK Pin=R45-2
+Removed Pin From Net: NetName=TCK Pin=R46-1
+Removed Pin From Net: NetName=TDO Pin=R50-2
+Removed Pin From Net: NetName=13 Pin=R51-2
+Removed Pin From Net: NetName=8 Pin=R54-2
+Removed Pin From Net: NetName=TDI Pin=U1-15
+Removed Pin From Net: NetName=TMS Pin=U1-18
+Removed Pin From Net: NetName=TDO Pin=U12-11
+Removed Pin From Net: NetName=8 Pin=U13-9
+Removed Pin From Net: NetName=13 Pin=U13-11
+Removed Member From Class: ClassName=Peripheral Member=R47
+Change Net Name : Old Net Name=TDI New Net Name=_TDI
+Change Net Name : Old Net Name=TMS New Net Name=_TMS
+Added Pin To Net: NetName=_DATA Pin=R51-2
+Added Pin To Net: NetName=_DATA Pin=U13-11
+Added Net: Name=_DATA
+Added Pin To Net: NetName=_nCSO Pin=R54-2
+Added Pin To Net: NetName=_nCSO Pin=U13-9
+Added Net: Name=_nCSO
+Added Pin To Net: NetName=_TCK Pin=R45-2
+Added Pin To Net: NetName=_TCK Pin=R46-1
+Added Net: Name=_TCK
+Added Pin To Net: NetName=_TDO Pin=R50-2
+Added Pin To Net: NetName=_TDO Pin=U12-11
+Added Net: Name=_TDO
+Added Pin To Net: NetName=TDI Pin=U1-15
+Added Net: Name=TDI
+Added Pin To Net: NetName=TMS Pin=U1-18
+Added Net: Name=TMS
+Added Member To Class: ClassName=Peripheral Member=Component C45 0.1uF
+Added Member To Class: ClassName=DDR_HDMI Member=Component Q1 AO3400A
+Added Member To Class: ClassName=DDR_HDMI Member=Component R29 2.2K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R33 10K
+Added Member To Class: ClassName=DDR_HDMI Member=Component R34 2.2K
+Added Member To Class: ClassName=Peripheral Member=Component R41 220R
+Added Member To Class: ClassName=Peripheral Member=Component U9 AT24C02
+Added Member To Class: ClassName=USB_Blaster Member=Component U13 74LVC125A

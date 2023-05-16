@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Added Component: Designator=*(0.78_TFT_LCD)
+Added Member To Class: ClassName=Peripheral Member=Component * 0.96_TFT_LCD

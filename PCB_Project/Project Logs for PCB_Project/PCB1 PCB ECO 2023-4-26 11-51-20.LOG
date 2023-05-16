@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GNDA1 Pin=C1-1
+Added Pin To Net: NetName=GNDA1 Pin=C4-1
+Added Pin To Net: NetName=GNDA1 Pin=R6-1
+Added Pin To Net: NetName=GNDA1 Pin=U1-36
+Added Net: Name=GNDA1
+Added Pin To Net: NetName=GNDA2 Pin=C2-1
+Added Pin To Net: NetName=GNDA2 Pin=C5-1
+Added Pin To Net: NetName=GNDA2 Pin=R5-1
+Added Pin To Net: NetName=GNDA2 Pin=U1-108
+Added Net: Name=GNDA2
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=86 Pin=R20-2
+Removed Pin From Net: NetName=87 Pin=R21-2
+Removed Pin From Net: NetName=84 Pin=R22-2
+Removed Pin From Net: NetName=85 Pin=R23-2
+Added Pin To Net: NetName=84 Pin=R20-2
+Added Pin To Net: NetName=85 Pin=R21-2
+Added Pin To Net: NetName=86 Pin=R22-2
+Added Pin To Net: NetName=87 Pin=R23-2

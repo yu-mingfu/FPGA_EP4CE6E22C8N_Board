@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=PB7 Pin=R?-2
+Added Pin To Net: NetName=PB7 Pin=U?-10
+Added Net: Name=PB7
+Added Pin To Net: NetName=RC3 Pin=U?-7
+Added Net: Name=RC3
+Added Pin To Net: NetName=RC4 Pin=U?-6
+Added Net: Name=RC4
+Added Pin To Net: NetName=RC7 Pin=U?-9
+Added Net: Name=RC7
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component C? 0.1uF
+Added Member To Class: ClassName=USB_Blaster Member=Component C? 20pF
+Added Member To Class: ClassName=USB_Blaster Member=Component C? 20pF
+Added Member To Class: ClassName=USB_Blaster Member=Component C? 0.1uF
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 4.7K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 220R
+Added Member To Class: ClassName=Peripheral Member=Component R? 10K
+Added Member To Class: ClassName=USB_Blaster Member=Component R? 1K
+Added Member To Class: ClassName=USB_Blaster Member=Component R? 1K
+Added Member To Class: ClassName=USB_Blaster Member=Component Rp? 1K¦¸ (102) ¡À5%
+Added Member To Class: ClassName=USB_Blaster Member=Component U? PIC18F14K50-I/SS
+Added Member To Class: ClassName=USB_Blaster Member=Component U? 74LVC125A

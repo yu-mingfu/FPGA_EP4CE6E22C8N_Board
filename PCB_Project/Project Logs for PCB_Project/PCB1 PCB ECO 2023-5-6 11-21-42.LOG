@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=D2 Old Footprint=SMA New Footprint=SMC
+Added Pin To Net: NetName=IIC_SDA Pin=JP1-26
+Added Pin To Net: NetName=IIC_SCL Pin=JP1-28
+Added Pin To Net: NetName=IIC_SCL Pin=U1-110
+Added Pin To Net: NetName=IIC_SDA Pin=U1-113
+Change Net Name : Old Net Name=IIC_SCL New Net Name=110
+Change Net Name : Old Net Name=IIC_SDA New Net Name=113
