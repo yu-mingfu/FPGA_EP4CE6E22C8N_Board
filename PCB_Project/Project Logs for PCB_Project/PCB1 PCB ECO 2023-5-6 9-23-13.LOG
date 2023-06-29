@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=JP1-5
-Removed Pin From Net: NetName=GND Pin=JP1-6
-Removed Pin From Net: NetName=GND Pin=JP1-7
-Removed Pin From Net: NetName=GND Pin=JP1-8
-Added Pin To Net: NetName=GND Pin=JP1-29
-Added Pin To Net: NetName=GND Pin=JP1-30
-Added Pin To Net: NetName=GND Pin=JP1-31
-Added Pin To Net: NetName=GND Pin=JP1-32

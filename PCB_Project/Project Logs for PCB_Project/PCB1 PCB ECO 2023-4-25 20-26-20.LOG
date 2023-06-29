@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=U? Old Footprint=TSOP-54_L22.2-W10.2-P0.80-LS11.8-BL New Footprint=SOP8_M
-Change Component Comment : Designator=U? Old Comment=HY57V641620 New Comment=EPCS4N EPCS16
-Added Component: Designator=U?(TSOP-54_L22.2-W10.2-P0.80-LS11.8-BL)
-Added Member To Class: ClassName=Sheet1 Member=Component U? HY57V641620
-Added Member To Class: ClassName=Sheet1 Member=Component U? EPCS4N EPCS16
